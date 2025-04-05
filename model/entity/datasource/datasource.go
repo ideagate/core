@@ -1,7 +1,7 @@
 package datasource
 
 import (
-	"github.com/bayu-aditya/ideagate/backend/core/model/constant"
+	"github.com/ideagate/core/model/constant"
 	"gorm.io/gorm"
 )
 

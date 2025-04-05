@@ -4,6 +4,6 @@ mockname: "{{.InterfaceName}}"
 filename: "{{.InterfaceName}}.go"
 with-expecter: true
 packages:
-  github.com/bayu-aditya/ideagate/backend/core/adapter/endpoint:
+  github.com/ideagate/core/adapter/endpoint:
     interfaces:
       IEndpointAdapter:

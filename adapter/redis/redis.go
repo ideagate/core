@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bayu-aditya/ideagate/backend/core/ports/distributionlock"
-	"github.com/bayu-aditya/ideagate/backend/core/ports/pubsub"
+	"github.com/ideagate/core/ports/distributionlock"
+	"github.com/ideagate/core/ports/pubsub"
 	"github.com/redis/go-redis/v9"
 )
 

@@ -1,9 +1,9 @@
-module github.com/bayu-aditya/ideagate/backend/core
+module github.com/ideagate/core
 
 go 1.23.0
 
 require (
-	github.com/bayu-aditya/ideagate/backend/model/gen-go v0.0.0-20250108071210-e53796da7921
+	github.com/ideagate/model/gen-go v0.0.0-20250405233858-080667362b54
 	github.com/onsi/ginkgo/v2 v2.22.1
 	github.com/onsi/gomega v1.36.2
 	github.com/redis/go-redis/v9 v9.7.0
